@@ -1,0 +1,9 @@
+span {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    font-weight: bold;
+}
+footer {
+    text-align: center;
+    background-color: rgb(246, 226, 201);
+}
